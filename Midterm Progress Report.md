@@ -3,13 +3,13 @@ Team One Piece  —  Midterm Progress Report (Step 3)
  
 iOS Capstone Project  •  Swift / SwiftUI  •  Spring 2025
 Submitted: March 6, 2025   |   Due: March 6 @ 11:30 PM
-Team Member	Role
-Ivan Garcia	Frontend Development
-Barret Emerson	Backend Development
-Skylar Beesley	Team Leader /Scheduler
-Jagadeesh Kumar	UI/UX Designer
-Reese Roberts	Data Management
-Zy Burris	Facilitator
+Team Member	Roles
+Ivan Garcia -	Frontend Development,
+Barret Emerson -	Backend Development,
+Skylar Beesley -	Team Leader/Scheduler,
+Jagadeesh Kumar	- UI/UX Designer,
+Reese Roberts	- Data Management,
+Zy Burris	- Facilitator
 
 
 ---
